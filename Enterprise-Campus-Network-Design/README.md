@@ -9,6 +9,8 @@ It simulates a real-world multi-floor organization network supporting multiple d
 The network follows a hierarchical design model and integrates key enterprise networking technologies such as VLANs, routing protocols, DHCP, NAT, and security mechanisms.
 
 ---
+## Notes
+This is a test update.
 
 ## 🏢 Network Scenario
 
